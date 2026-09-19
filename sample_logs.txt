@@ -1,0 +1,8 @@
+2026-09-19T10:00:01 [INFO] Server started on port 8080
+2026-09-19T10:00:05 [WARN] High memory usage detected: 85%
+2026-09-19T10:00:12 [ERROR] Database connection timeout: DB_HOST_1
+2026-09-19T10:00:15 [ERROR] Database connection timeout: DB_HOST_1
+2026-09-19T10:00:20 [CRITICAL] Out of Memory Exception in WorkerThread-4
+2026-09-19T10:00:25 [INFO] User session authenticated ID:99201
+2026-09-19T10:01:01 [ERROR] Database connection timeout: DB_HOST_1
+2026-09-19T10:01:15 [WARN] High memory usage detected: 90%
