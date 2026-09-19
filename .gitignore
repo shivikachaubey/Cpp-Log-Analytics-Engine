@@ -1,0 +1,12 @@
+log_analyzer
+log_analyzer.exe
+build/
+cmake-build-*/
+
+.vscode/
+.idea/
+*.suo
+*.user
+
+.DS_Store
+Thumbs.db
